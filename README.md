@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Somayeh%20Forouzandeh&fontSize=40&fontColor=ffffff" />
+<img src="./Banner.png" alt="Somayeh Forouzandeh Banner" width="100%"/>
 
 </div>
 
@@ -9,7 +9,7 @@ Business Intelligence | Data Analytics | Industrial Engineering
 </h3>
 
 <p align="center">
-Transforming data into insights and improving business performance through analytics and engineering solutions.
+Turning data into better decisions through Business Intelligence, Data Analytics, and Industrial Engineering.
 </p>
 
 <div align="center">
