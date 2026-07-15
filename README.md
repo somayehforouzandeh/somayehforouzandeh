@@ -1,54 +1,61 @@
-<p align="center">
-  <img src="Assets/Banner.png" width="100%" alt="Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Somayeh Forouzandeh</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Somayeh%20Forouzandeh&fontSize=40&fontColor=ffffff" />
+
+</div>
+
 
 <h3 align="center">
-Business Intelligence • Data Analytics • Industrial Engineering
+Business Intelligence | Data Analytics | Industrial Engineering
 </h3>
 
+
 <p align="center">
-Transforming data into actionable insights through Business Intelligence, Data Analytics, and Process Improvement.
+Transforming data into insights and improving business performance through analytics and engineering solutions.
 </p>
 
-<p align="center">
+
+<div align="center">
 
 <a href="https://github.com/somayehforouzandeh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-somayehforouzandeh-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/somayeh-forouzandeh">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Somayeh%20Forouzandeh-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
 
 ---
 
-# 👩‍💻 About Me
+# 👋 About Me
 
-I am an Industrial Engineer passionate about **Business Intelligence, Data Analytics, Artificial Intelligence, and Process Improvement**.
+🎓 MSc Industrial Engineering – Systems & Productivity
 
-With a background in Industrial Engineering and Systems & Productivity, I focus on transforming complex data into meaningful insights through interactive dashboards, analytical models, KPI systems, and data-driven solutions.
+📊 Business Intelligence & Data Analytics Enthusiast
 
-My goal is to support smarter business decisions by combining engineering knowledge, analytical thinking, and modern data technologies.
+🏭 Industrial Engineering Professional focused on Process Improvement and Performance Management
+
+📈 Passionate about designing dashboards, analyzing data, and creating data-driven solutions for better decision-making.
+
+
+I combine my background in **Industrial Engineering** with modern **Data Analytics and Business Intelligence tools** to help organizations understand their data, improve processes, and increase performance.
 
 
 ---
 
 # 🎯 Core Expertise
 
-- 📊 Business Intelligence
-- 📈 Data Analytics
-- 📉 Data Visualization
-- 📋 KPI Design & Performance Management
-- Python for Data Analytics
-- SQL & Data Management
-- Machine Learning Fundamentals
-- Process Improvement
-- Industrial Engineering
+- 📊 Business Intelligence & Data Visualization
+- 📈 Data Analytics & Reporting
+- 🏭 Industrial Engineering & Process Improvement
+- 🎯 KPI Design & Performance Measurement
+- 📉 Dashboard Development
+- 🐍 Python for Data Analytics
+- 🗄 SQL & Data Management
+- 🤖 Machine Learning Fundamentals
 
 
 ---
@@ -56,144 +63,227 @@ My goal is to support smarter business decisions by combining engineering knowle
 # 🛠 Tech Stack
 
 
-<p align="center">
+## 📊 Business Intelligence
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python"/>
-</a>
+<p>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL"/>
-</a>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="55" alt="Power BI"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" height="55" alt="Microsoft Excel"/>
-</a>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
 
 
-### Business Intelligence Tools
+## 🐍 Programming & Data Analysis
 
-- Microsoft Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Microsoft Excel
-- Microsoft Fabric
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+
+## 🗄 Database
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+
+## 🤖 Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+
+## ⚙ Process Improvement
+
+<p>
+
+<img src="https://img.shields.io/badge/Lean%20Six%20Sigma-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI%20Management-6f42c1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Process%20Improvement-198754?style=for-the-badge"/>
+
+</p>
 
 
 ---
-
 # 🚀 Featured Projects
 
 
 ## 📊 Power BI Sales Dashboard
 
-Interactive Business Intelligence dashboard developed using Microsoft Power BI for:
+Interactive Business Intelligence dashboard developed for sales analysis and executive decision support.
 
-- Sales performance analysis
-- KPI monitoring
+Key features:
+
+- 📈 Sales performance monitoring
+- 🎯 KPI visualization
+- 👥 Customer analysis
+- 📊 Interactive reports and dashboards
+- 📅 Time-based analysis
+
+**Status:** ✅ Available
+
+
+---
+
+
+## 🐍 Python for Data Analytics
+
+Data analytics projects using Python for:
+
+- Data cleaning and preparation
+- Exploratory Data Analysis (EDA)
 - Data visualization
-- Executive decision support
+- Automation of analytical tasks
 
-**Tools Used:**
-
-Power BI • DAX • Power Query • Data Modeling • Excel
-
-
-🔗 Repository:
-
-**PowerBI-Sales-Dashboard**
+**Status:** 🚧 Coming Soon
 
 
 ---
 
-# 🚧 Upcoming Projects
 
-- Python Data Analytics Projects
-- SQL Analytics Projects
-- Machine Learning Applications
-- Business Intelligence Solutions
-- Process Improvement Case Studies
+## 🗄 SQL Analytics
+
+SQL-based solutions focused on:
+
+- Data querying
+- Data transformation
+- Business reporting
+- Analytical insights
+
+**Status:** 🚧 Coming Soon
+
+
+---
+
+
+## 🤖 Machine Learning Projects
+
+Machine Learning applications for business problems:
+
+- Predictive analytics
+- Data modeling
+- Pattern discovery
+- Decision support
+
+**Status:** 🚧 Coming Soon
 
 
 ---
 
-# 🌱 Currently Learning
 
-- Advanced Python
-- Advanced SQL
-- Machine Learning
-- Microsoft Fabric
-- AI Applications in Business Analytics
+## ⚙ Process Improvement Projects
+
+Industrial Engineering projects focused on:
+
+- Process analysis
+- Productivity improvement
+- KPI frameworks
+- Performance measurement
+
+**Status:** 🚧 Coming Soon
 
 
 ---
+
+
+## 📈 Business Intelligence Solutions
+
+End-to-end BI solutions including:
+
+- Data modeling
+- Dashboard development
+- Reporting systems
+- Data-driven decision support
+
+**Status:** 🚧 Coming Soon
+
+
+---
+
 
 # 📊 GitHub Analytics
 
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=somayehforouzandeh&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somayehforouzandeh&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+<div align="center">
 
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=somayehforouzandeh&show_icons=true&theme=transparent&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=somayehforouzandeh&theme=transparent&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=somayehforouzandeh&theme=transparent&hide_border=true" />
+
+
+</div>
 
 
 ---
+
+
+# 📚 Currently Learning
+
+- 🐍 Advanced Python for Data Analytics
+- 📊 Advanced Power BI & Data Modeling
+- 🗄 SQL Analytics
+- 🤖 Machine Learning Applications
+- ☁ Cloud-based Data Solutions
+
+
+---
+
 
 # 📫 Connect With Me
 
 
-<p align="center">
+<div align="center">
+
 
 <a href="https://github.com/somayehforouzandeh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-somayehforouzandeh-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 
 <a href="https://www.linkedin.com/in/somayeh-forouzandeh">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Somayeh%20Forouzandeh-0A66C2?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
-</p>
+
+</div>
 
 
 ---
 
-<p align="center">
 
-### 💡 "Turning Data Into Better Decisions."
-
-</p>
+# 💡 Professional Philosophy
 
 
-<p align="center">
-⭐ Thank you for visiting my GitHub profile!
-</p>
+> "Data is not just numbers; it is the foundation for better decisions, smarter processes, and sustainable improvement."
+
+
+---
+
+
+<div align="center">
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
+
+</div>
