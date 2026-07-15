@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Banner.png" alt="Somayeh Forouzandeh Banner" width="100%"/>
+<img src="Assets/Banner.png" alt="Somayeh Forouzandeh Banner" width="100%" />
 
 </div>
 
@@ -9,7 +9,7 @@ Business Intelligence | Data Analytics | Industrial Engineering
 </h3>
 
 <p align="center">
-Turning data into better decisions through Business Intelligence, Data Analytics, and Industrial Engineering.
+Transforming data into insights and improving business performance through analytics and engineering solutions.
 </p>
 
 <div align="center">
