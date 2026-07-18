@@ -5,11 +5,12 @@
 </div>
 
 <h3 align="center">
-Business Intelligence | Data Analytics | Industrial Engineering
+Industrial Engineer (M.Sc.)
+Business Intelligence | Data Analytics | Process Improvement
 </h3>
 
 <p align="center">
-Transforming data into insights and improving business performance through analytics and engineering solutions.
+Industrial Engineer with a Master's degree in Systems & Productivity, passionate about Business Intelligence, Data Analytics, Process Improvement, and AI-driven decision making. I build analytical solutions that transform data into actionable business insights
 </p>
 
 <div align="center">
@@ -34,7 +35,7 @@ Transforming data into insights and improving business performance through analy
 
 🏭 Industrial Engineering Professional focused on Process Improvement and Performance Management
 
-📈 Passionate about transforming data into actionable insights and developing data-driven solutions for better decision-making.
+📈 Passionate about transforming business data into actionable insights, optimizing processes, and supporting strategic decision-making through Business Intelligence and Analytics.
 
 I combine my background in **Industrial Engineering** with modern **Business Intelligence and Data Analytics tools** to analyze data, improve processes, and support strategic decisions.
 
@@ -42,28 +43,82 @@ I combine my background in **Industrial Engineering** with modern **Business Int
 
 # 🎯 Core Expertise
 
-- 📊 Business Intelligence
-- 📈 Data Analytics
-- 🐍 Python for Data Analytics
-- 🗄 SQL & Data Management
-- 🤖 Machine Learning Fundamentals
-- ⚙ Process Improvement
-- 🏭 Industrial Engineering
-- 🎯 KPI Design & Performance Management
-- 📉 Dashboard Development
+## ⚙ Industrial Engineering
+
+- Systems & Productivity
+- Process Improvement
+- Performance Management
+- KPI Design
+- Lean Six Sigma
+- EFQM
+- Balanced Scorecard (BSC)
+
+## 📊 Business Intelligence
+
+- Microsoft Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Dashboard Design
+
+## 📅 Project Management
+
+<p>
+<img src="https://img.shields.io/badge/Primavera%20P6-005BAC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project%20Planning-198754?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project%20Control-6f42c1?style=for-the-badge"/>
+</p>
+- Primavera P6
+- Project Planning & Control
+- Scheduling
+- Progress Monitoring
+
+## 🐍 Data & AI
+
+- Python
+- Pandas
+- Machine Learning Fundamentals
+- Data Analytics
 
 ---
 
 # 🛠 Tech Stack
 
+## ⚙️ Industrial Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Industrial%20Engineering-0B5394?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Systems%20%26%20Productivity-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Process%20Improvement-198754?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance%20Management-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Design-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lean%20Six%20Sigma-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EFQM-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Balanced%20Scorecard-34495E?style=for-the-badge"/>
+</p>
+
 ## 📊 Business Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard%20Design-1565C0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-## 🐍 Programming & Data Analysis
+## 📅 Project Management
+
+<p>
+<img src="https://img.shields.io/badge/Primavera%20P6-005BAC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project%20Planning-198754?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project%20Control-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scheduling-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Progress%20Monitoring-546E7A?style=for-the-badge"/>
+</p>
+
+## 🐍 Programming & Data Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -73,21 +128,15 @@ I combine my background in **Industrial Engineering** with modern **Business Int
 
 ## 🗄 Database
 
-<p><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></p>
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-## 🤖 Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-## ⚙ Process Improvement
-
-<p>
-<img src="https://img.shields.io/badge/Lean%20Six%20Sigma-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI%20Management-6f42c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Process%20Improvement-198754?style=for-the-badge"/>
 </p>
 
 ---
