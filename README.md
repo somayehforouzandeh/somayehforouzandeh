@@ -19,7 +19,7 @@ Industrial Engineer with a Master's degree in Systems & Productivity, passionate
 <img src="https://img.shields.io/badge/GitHub-somayehforouzandeh-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/somayeh-forouzandeh">
+<a href="https://www.linkedin.com/in/somayehforouzandeh">
 <img src="https://img.shields.io/badge/LinkedIn-Somayeh%20Forouzandeh-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -166,8 +166,8 @@ I combine my background in **Industrial Engineering** with modern **Business Int
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/somayehforouzandeh
-- LinkedIn: https://www.linkedin.com/in/somayeh-forouzandeh
+- GitHub: [somayehforouzandeh](https://github.com/somayehforouzandeh)
+- LinkedIn: [Somayeh Forouzandeh](https://www.linkedin.com/in/somayehforouzandeh)
 
 ---
 
