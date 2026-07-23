@@ -394,7 +394,7 @@ My skills in **Business Intelligence, Data Analytics, Data Science, Machine Lear
 # 📫 Connect With Me
 
 - GitHub: [somayehforouzandeh](https://github.com/somayehforouzandeh)
-- LinkedIn: [Somayeh Forouzandeh](https://www.linkedin.com/in/somayeh-forouzandeh)
+- LinkedIn: [Somayeh Forouzandeh](https://www.linkedin.com/in/somayehforouzandeh)
 
 ---
 
